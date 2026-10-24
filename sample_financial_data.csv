@@ -1,0 +1,11 @@
+company_id,company_name,sector,period,revenue,expenses,reported_profit,currency
+COMP-101,Apex Dynamics Corp,Technology,2025-Q1,125000,85000,40000,USD
+COMP-101,Apex Dynamics Corp,Technology,2025-Q2,132000,89000,43000,USD
+COMP-102,Beacon Financial Technologies,Financials,2025-Q1,95000,62000,33000,USD
+COMP-102,Beacon Financial Technologies,Financials,2025-Q2,98000,64000,45000,USD
+COMP-103,Crestview Energy Partners,Energy,2025-Q1,210000,165000,45000,EUR
+COMP-103,Crestview Energy Partners,Energy,2025-Q2,225000,172000,53000,EUR
+COMP-104,Delta Health Systems,Healthcare,2025-Q1,84000,58000,26000,GBP
+COMP-105,Echelon Retail Group,Consumer,2025-Q1,150000,110000,40000,USD
+COMP-105,Echelon Retail Group,Consumer,2025-Q1,150000,110000,40000,USD
+COMP-106,Frontier Industrial Labs,Industrials,2025-Q1,62000,41000,58000,USD

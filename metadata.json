@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard AI — Financial Data Intelligence",
+  "description": "Enterprise financial data quality and integrity dashboard for credit rating pipelines, root-cause investigation, and audit trail lineage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
